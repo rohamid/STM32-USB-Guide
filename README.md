@@ -6,4 +6,4 @@ A list of various guide regarding to STM32 USB
 * [kevincuzner.com](https://kevincuzner.com/2018/01/29/bare-metal-stm32-writing-a-usb-driver/) This guy's implementation seems good to look at.
 * [stackoverflow](https://stackoverflow.com/questions/79177142/usb-stm32-implementation-without-using-hal-not-receiving-get-configuration-des) Stackverflow thread, someone trying to implement baremetal USB too.
 * [https://github.com/CShark/stm32usb](https://github.com/CShark/stm32usb) A simple tutorial for a bare metal usb implementation on an stm32g4. Check the Wiki for a step by step instruction. Thie [wiki](https://github.com/CShark/stm32usb/wiki)
-* [mikrocontroller.net USB tutorial](https://www.mikrocontroller.net/articles/USB-Tutorial_mit_STM32) mikrocontroller.net USB tutorial bare metal.
+* [mikrocontroller.net USB tutorial](https://www.mikrocontroller.net/articles/USB-Tutorial_mit_STM32) mikrocontroller.net USB tutorial bare metal (German). This is their [repo](https://github.com/Erlkoenig90/f1usb)
