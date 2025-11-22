@@ -14,3 +14,7 @@ A list of various guide regarding to STM32 USB
 * [STM32F4 USB UVC](https://github.com/iliasam/STM32F4_UVC_Camera) Some USB Device UVC projects for STM32F4-DISCOVERY, [implementation](https://habr.com/ru/articles/245511/)
 * [stm32_host_uvc_example](https://github.com/iliasam/STM32_HOST_UVC_Camera) Another iliasam's implementation of USB UVC but in HOST mode. [implementation](http://we.easyelectronics.ru/STM32/zahvat-izobrazheniya-s-usb-kamery-pri-pomoschi-stm32.html)
 * [pecostm32 repository](https://github.com/pecostm32/STM32F103C8_USB_CH340/tree/master) STM32F103C8_USB_CH340
+* [libusb_stm32](https://github.com/dmitrystu/libusb_stm32) Lightweight USB Device Stack (stm32)
+* [STM32duino-bootloader](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
+* [original maple-bootloader](https://github.com/leaflabs/maple-bootloader) Original maple-bootloader by leaflabs.
+* [maple-bootloder](https://github.com/jonatanolofsson/maple-bootloader) Maple bootloader derivation by jonatanolofsson.
