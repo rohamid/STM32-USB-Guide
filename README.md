@@ -18,3 +18,4 @@ A list of various guide regarding to STM32 USB
 * [STM32duino-bootloader](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
 * [original maple-bootloader](https://github.com/leaflabs/maple-bootloader) Original maple-bootloader by leaflabs.
 * [maple-bootloder](https://github.com/jonatanolofsson/maple-bootloader) Maple bootloader derivation by jonatanolofsson.
+* [stm32-dfu-bootloader](https://github.com/davidgfnet/stm32-dfu-bootloader) This is a tiny bootloader (under 4KB) for STM32F103 (although it probably works for similar devices)
