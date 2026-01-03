@@ -19,3 +19,4 @@ A list of various guide regarding to STM32 USB
 * [original maple-bootloader](https://github.com/leaflabs/maple-bootloader) Original maple-bootloader by leaflabs.
 * [maple-bootloder](https://github.com/jonatanolofsson/maple-bootloader) Maple bootloader derivation by jonatanolofsson.
 * [stm32-dfu-bootloader](https://github.com/davidgfnet/stm32-dfu-bootloader) This is a tiny bootloader (under 4KB) for STM32F103 (although it probably works for similar devices)
+* [STM32_FS_USB_CDC_device_CMSIS](https://github.com/SvetlAl/STM32_FS_USB_CDC_device_CMSIS) Another implementation of USB with no HAL by Alexander Svetlichnyy using CMSIS only 
